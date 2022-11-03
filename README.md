@@ -1,6 +1,4 @@
 <html>
-<head>
-</head>
 <body>
 <h1>222877IACB</h1>
 <p>Welcome to my website.</p>
