@@ -5,8 +5,8 @@
 </head>
 <body>
 <h1>222877IACB</h1>
-<p>Welcome to <em>my</em> brand new website.</p>
-<p>This site will be my <strong>new</strong> home on the web.</p>
+<p>Welcome to my website.</p>
+<p>This site will be my new home on the web.</p>
 <a href="https://taltech.ee/">This is a link</a>
 <img src="testpic.jpg" alt="This is a test image" height="42" width="42">
 <p>This website will have the following benefits for my business:</p>
