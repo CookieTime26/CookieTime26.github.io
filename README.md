@@ -15,6 +15,6 @@
 <td>Violet</td>
 </tr>
 </table>
-<img src="(https://images.app.goo.gl/cLoLHdY6QxAD3mDM9)">
+<img src="https://images.app.goo.gl/cLoLHdY6QxAD3mDM9">
 </body>
 </html>
