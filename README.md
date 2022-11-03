@@ -7,12 +7,12 @@
 <h2>Cool Table</h2>
 <table>
 <tr>
-<td>Red - Rose </td>
-<td>Blue - Violet </td>
+<th>Red</th>
+<th>Blue</th>
 </tr>
 <tr>
-<td>Row 2 - Column 1</td>
-<td>Row 2 - Column 2</td>
+<td>Rose</td>
+<td>Violet</td>
 </tr>
 </table>
 <img src="fda2908588247be0b0facbbf64ec7311.png">
