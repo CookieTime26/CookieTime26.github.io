@@ -7,7 +7,7 @@
 <h1>222877IACB</h1>
 <p>Welcome to my website.</p>
 <p>This site will be my new home on the web.</p>
-<a> href="https://taltech.ee/">This is a link</a>
+<a href="https://taltech.ee/">This is a link</a>
 <img src="fda2908588247be0b0facbbf64ec7311.png">
 <p>This website will have the following benefits for my business:</p>
 <ul>
